@@ -184,9 +184,8 @@ textarea {
   }
 
   .fale-conosco{
-    position: static;
-    width: 90%;
-
+   width: 70%;
+   left: 0;
   }
 
 }
