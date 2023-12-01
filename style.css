@@ -182,4 +182,11 @@ textarea {
     display: block;
     margin: 0 auto;
   }
+
+  .fale-conosco{
+    position: static;
+    width: 90%;
+
+  }
+
 }
